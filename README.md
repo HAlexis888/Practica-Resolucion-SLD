@@ -1,7 +1,4 @@
-# 🍽️ Plato del Buen Comer - Sistema de Verificación
-
-Un sistema en Python que verifica si una combinación de alimentos forma un "Plato del Buen Comer" según los estándares nutricionales mexicanos.
-
+# Resolucion SLD
 ## 📋 Descripción
 
 Este proyecto implementa un sistema basado en reglas que evalúa si un conjunto de alimentos constituye una comida balanceada según el concepto del "Plato del Buen Comer", el cual clasifica los alimentos en diferentes grupos alimenticios para promover una alimentación saludable.
