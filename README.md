@@ -8,8 +8,11 @@ Este proyecto implementa un sistema basado en reglas que evalúa si un conjunto 
 
 ## 🏗️ Estructura del Proyecto
 sld_practice/
+
 ├── main.py # Archivo principal de ejecución
+
 ├── sld_practice.py # Lógica de verificación del plato
+
 ├── base_conocimiento.py # Base de conocimiento con grupos alimenticios
 
 ## 🧠 Lógica del Sistema
