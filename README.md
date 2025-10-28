@@ -14,3 +14,5 @@ sld_practice/
 - Frutas y Verduras (grupo combinado)
 - Cereales
 - Leguminosas y Alimentos de origen animal (grupo combinado)
+
+## Equipo nutrición
